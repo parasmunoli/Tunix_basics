@@ -1,0 +1,7 @@
+datasets
+jax
+jaxlib
+flax
+transformers
+tunix
+ipykernel
